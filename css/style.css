@@ -32,6 +32,14 @@ h1, h2, h3, h4, h5,
 
 .text-primary {
   color: #FDA403 !important;
+  font-size: 22px;
+}
+
+.actualite{
+  display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
 }
 
 .site-navbar-light {
@@ -194,7 +202,7 @@ h1, h2, h3, h4, h5,
 .site-cover .site-heading {
   font-size: 75px;
   line-height: 1.34;
-  color: #fff;
+  color: #181717;
   margin-top: 12%;
 }
 
@@ -206,7 +214,7 @@ h1, h2, h3, h4, h5,
 }
 
 .site-cover .site-subheading, .site-cover p {
-  color: rgba(255, 250, 250, 1);
+  color: #181717;
   font-weight: 900;
   font-family: "Raleway", sans-serif;
   font-size: 22px;
@@ -301,6 +309,69 @@ h1, h2, h3, h4, h5,
 .menu-item img {
   width: 100px;
   border-radius: 50%;
+}
+
+.menu-item-gauche01 {
+  margin-bottom: 64px;
+}
+
+.menu-item-gauche01 img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+
+.menu-item-suite {
+  margin-bottom: 30px;
+}
+
+.menu-item-suite img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.menu-item-suite-gaucheb11 {
+  margin-bottom: 30px;
+  margin-left: -106%;
+  margin-top: 10%;
+  width: 75%;
+}
+
+.menu-item-suite-gaucheb11 img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.menu-item-suite-droiteb12 {
+  margin-bottom: 30px;
+  margin-top: -28%;
+}
+
+.menu-item-suite-droiteb12 img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.menu-item-suite-gaucheb13 {
+  margin-bottom: 30px;
+  margin-left: -106%;
+  margin-top: 10%;
+  width: 75%;
+}
+
+.menu-item-suite-gaucheb13 img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.menu-item-suite-droiteb14{
+  margin-bottom: 30px;
+  margin-top: -29%;
+}
+
+.menu-item-suite-droiteb14 img {
+  width: 100px;
+  border-radius: 100%;
 }
 
 .menu-item .menu-price {
