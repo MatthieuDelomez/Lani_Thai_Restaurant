@@ -311,6 +311,39 @@ margin-right:auto;
   border-radius: 50%;
 }
 
+.menu-item-suite-entreedroiteb12{
+  margin-bottom: 30px;
+  margin-top: -32%;
+}
+
+.menu-item-suite-entreedroiteb12 img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.menu-item-suite-entreegaucheb11 img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.menu-item-suite-entreegaucheb11{
+  margin-bottom: 30px;
+  margin-left: -106%;
+  margin-top: 10%;
+  width: 75%;
+}
+
+.menu-item-suite-entreedroiteb13 img{
+  width: 100px;
+  border-radius: 100%;
+
+}
+
+.menu-item-suite-entreedroiteb13 {
+  margin-bottom: 30px;
+  margin-top: -29%;
+}
+
 .menu-item-gauche01 {
   margin-bottom: 64px;
 }
@@ -362,6 +395,18 @@ margin-right:auto;
 .menu-item-suite-gaucheb13 img {
   width: 100px;
   border-radius: 100%;
+}
+
+.menu-item-suite-gaucheb14 img{
+  width: 100px;
+  border-radius: 100%;
+}
+
+.menu-item-suite-gaucheb14 {
+  margin-bottom: 30px;
+  margin-left: -106%;
+  margin-top: 10%;
+  width: 75%;
 }
 
 .menu-item-suite-droiteb14{
